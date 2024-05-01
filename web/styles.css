@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200");
+
+@font-face {
+  font-family: "Vazirmatn RD FD";
+  src: url("./assets/fonts/Vazirmatn-RD-FD-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn RD FD";
+  src: url("./assets/fonts/Vazirmatn-RD-FD-ExtraLight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn RD FD";
+  src: url("./assets/fonts/Vazirmatn-RD-FD-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn RD FD";
+  src: url("./assets/fonts/Vazirmatn-RD-FD-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn RD FD";
+  src: url("./assets/fonts/Vazirmatn-RD-FD-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn RD FD";
+  src: url("./assets/fonts/Vazirmatn-RD-FD-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn RD FD";
+  src: url("./assets/fonts/Vazirmatn-RD-FD-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn RD FD";
+  src: url("./assets/fonts/Vazirmatn-RD-FD-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazirmatn RD FD";
+  src: url("./assets/fonts/Vazirmatn-RD-FD-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+*,
+*::before,
+*::after {
+  margin: 0px;
+  padding: 0px;
+  -webkit-tap-highlight-color: transparent;
+  box-sizing: border-box;
+}
