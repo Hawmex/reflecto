@@ -23,6 +23,7 @@ final class Footer extends StatelessWidget {
           Feature(text: 'خدانگهدار', icon: 'waving_hand'),
           Feature(text: 'آهنگ', icon: 'music_note'),
           Feature(text: 'ویدیو', icon: 'smart_display'),
+          Feature(text: 'داشبورد', icon: 'dashboard'),
         ]),
         DomWidget(
           'span',

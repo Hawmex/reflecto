@@ -62,7 +62,7 @@ final class Stage extends StatelessWidget {
                   icon: 'waving_hand',
                 ),
                 Message(
-                  'سلام! روز ${Jalali.now().formatter.wN}‌ات بخیر.',
+                  'سلام! روز ${Jalali.now().weekDayName}‌ات بخیر.',
                   icon: 'chat',
                 ),
               ]),
